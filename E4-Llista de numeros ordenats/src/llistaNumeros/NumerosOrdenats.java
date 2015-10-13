@@ -10,7 +10,7 @@ public class NumerosOrdenats {
 		int numero=39000;
 		boolean trobat=false;
 		
-		int[] array = new int[500000];
+		int[] array = new int[1000000];
 		Random rand = new Random();
 		
 		for (int i = 0; i < array.length; i++) {
